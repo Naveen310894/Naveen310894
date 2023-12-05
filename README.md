@@ -1,14 +1,20 @@
-I'm Naveen Kumar, a graduate student from UMBC with a Master's in Information Systems. I hold certifications as an AWS Solutions Architect Associate and HashiCorp Terraform Cloud Associate, demonstrating my commitment to learning and expanding my expertise in Cloud/DevOps technologies.
+<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
+<h3 align="center">A graduate student from UMBC with a Master's in Information Systems. I hold certifications as an AWS Solutions Architect Associate and HashiCorp Terraform Cloud Associate, demonstrating my commitment to learning and expanding my expertise in Cloud/DevOps technologies.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Over my 6+ years of experience working across diverse domains, I've specialized in automating infrastructure from application development to deployment. Beginning my career as a backend developer, I successfully transitioned into a Cloud/DevOps engineer, providing me with a comprehensive understanding of the software lifecycle. I've actively contributed to numerous patch releases, focusing on bug resolution and application tuning to ensure and enhance application stability.
+- 🌱 I’m currently learning **Google Cloud, Automation using Python**
 
-Skills: Programming: Java, Python, Shell Scripting, Unix, Restful Webservices, Springboot Devops Tools: Splunk, Docker, Kubernetes, Ansible, Terraform, Jenkins, Promtheus, Argo CD, Nagios
-Cloud Technologies: AWS, OCI, Azure
+- 📫 How to reach me email **nc310894@gmail.com**
 
+- 📫 Interested to Speak- call **+1-704-299-3065**
 
-🌱 I’m currently learning automation in Python
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-📫 How to reach me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
--Phone: +1-704-299-3065
--Email: nc310894@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen310894&show_icons=true&locale=en&layout=compact" alt="naveen310894" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen310894&show_icons=true&locale=en" alt="naveen310894" /></p>
